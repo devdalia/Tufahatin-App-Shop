@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "334196130016",
+    "project_id": "woocommerce-3d71d",
+    "storage_bucket": "woocommerce-3d71d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334196130016:android:f74f3e79f4a4df11485085",
+        "android_client_info": {
+          "package_name": "com.iBright.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334196130016-i8dkivkjvorhi874qvjk3aj843julaid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iBright.ecommerce",
+            "certificate_hash": "84dd4ca68f203f3542da67eed9ef49bcee6810fb"
+          }
+        },
+        {
+          "client_id": "334196130016-4bunmf80htf6l593d9qv47n496kcu3v5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIES2QSDmMEV69lGqrH8Z_TXuadGVN340"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334196130016-4bunmf80htf6l593d9qv47n496kcu3v5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
